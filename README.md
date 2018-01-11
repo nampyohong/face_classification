@@ -2,7 +2,7 @@
 
 
 
-FACECLASSIFICATION SOURCE CODE
+FACE CLASSIFICATION SOURCE CODE
 
 TODO : Convert Keras based code to Tensorflow based
 
